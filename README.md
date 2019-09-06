@@ -10,5 +10,5 @@ Anchor link enchancments for GovCMS
 
 ## Installation
 
-- Copy contents of JS and templates to the respective directories in your theme.
+- Copy the contents of _JS_ and _templates_ to the respective directories in your theme.
 - Include anchor-magic.js in you libraries.yml file
